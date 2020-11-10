@@ -9,6 +9,7 @@ fetch(url, {
 	"method": "GET",
 	//where this going
 	//test
+	//ok
 	//delete
 })
 .then(response => {
