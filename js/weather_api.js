@@ -8,7 +8,8 @@ let url = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+ap
 fetch(url, {
 	"method": "GET",
 	//where this going
-	//this is from mac
+
+	//delete
 })
 .then(response => {
 	console.log(response.json());
