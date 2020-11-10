@@ -13,6 +13,7 @@ fetch(url, {
 })
 .then(response => {
 	console.log(response.json());
+	console.log();
 })
 .catch(err => {
 	console.error(err);
